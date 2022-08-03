@@ -2,10 +2,10 @@
 
 CLINS : Continuous-Time Trajectory Estimation for LiDAR-Inertial System
 
-构建CLINS环境需要注意所安装依赖的版本，和编译器gcc和g++的版本
+**构建CLINS环境需要注意所安装依赖的版本，和编译器gcc和g++的版本
 Ceres 1.14.0
 yaml-cpp 正常安装
-gcc和g++ 使用7.5.0编译，这里尝试过通过9.4.0编译，能编译通过，但是，运行不起来。
+gcc和g++ 使用7.5.0编译，这里尝试过通过9.4.0编译，能编译通过，但是，运行不起来。**
 
 **CLINS** is a highly-accurate continuous-time trajectory estimation framework dedicated for SLAM (Simultaneous Localization and Mapping) applications, which enables fuse high-frequency and asynchronous sensor data effectively. Now CLINS is applied in a 3D LiDAR-inertial system for evaluations.
 
